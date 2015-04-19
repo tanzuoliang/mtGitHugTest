@@ -8,6 +8,7 @@ class ThreadTest
 	private:
 		std::thread* thread;
 		int age = 21;
+		int height = 161;
 			
 };
 
